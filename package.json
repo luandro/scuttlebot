@@ -56,7 +56,7 @@
     "secret-stack": "^4.1.0",
     "secure-scuttlebutt": "git://github.com/luandro/secure-scuttlebutt",
     "sodium-browserify-tweetnacl": "^0.2.3",
-    "ssb-blobs": "^1.1.4",
+    "ssb-blobs": "git://github.com/luandro/ssb-blobs",
     "ssb-client": "^4.5.7",
     "ssb-config": "^2.0.0",
     "ssb-ebt": "^5.1.4",
